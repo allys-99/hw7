@@ -1,0 +1,71 @@
+gdpr
+https://www.youtube.com/watch?v=WPwG-MNMuBQ
+
+
+
+*_HOMEWORK FOR WEEK 7_*
+Basic: regenerate a ton of figures (> 50) showing data in *2D or 3D* with at least *4* features at a time, 
+leveraging things like colour, size, shape, etc...  You can determine how you choose these columns based on 
+conceptual understanding of your dataset, or generating all possible combinations! Push your script and figures to Github, 
+and please make sure the figures have titles, axis labels, and legends.
+Intermediate: from all your figures, tell me the *best* one for interpreting your data, and 
+justify why by explicitly comparing it to some other figures! :tada:  
+(for anyone who likes, sports, the :goat: figure... for those who wonder what goat means, 
+it’s ‘greatest of all time’ :upside_down_face:). Submission should be in the form of text in your README.md file that 
+explicitly says the file name within your repo of whatever figure you chose, an explanation of why (in a few sentences), 
+and the mention of a few other figures that you didn’t choose and why.
+Reach: return to Docker, and package your script inside a Docker container that can be run on your data file through *volume mounting*
+
+As always, please include instructions for how to run your code in your readme.
+Regarding Docker, please use the #docker channel since we’re all having the same issues :smile:
+
+See you next week!!! (edited) 
+
+
+
+====================================================================
+
+ conda install -c plotly plotly-orca
+
+
+
+
+https://plot.ly/python/reference/
+
+Plotly and cufflinks are not working with jupyter notebook
+https://github.com/plotly/plotly.py/issues/860
+
+Static Image Export in Python
+https://plot.ly/python/static-image-export/
+
+
+list of symbols for markers
+https://www.r-graph-gallery.com/125-the-plotlys-symbols/
+
+
+for some reason the y axis started at -5, 0 5
+rangemode='tozero',
+https://plot.ly/pandas/axes/
+
+list of colors for markers
+https://www.colorhexa.com/color-names
+
+set height and width of graph
+margins did not use
+https://plot.ly/python/setting-graph-size/
+
+https://plot.ly/python/reference/#scatter-marker-symbol
+
+Combination without repetition
+https://www.mathsisfun.com/combinatorics/combinations-permutations.html
+
+install conda
+https://plot.ly/python/static-image-export/
+conda install -c plotly plotly-orca psutil
+
+
+https://plot.ly/python/offline/
+
+
+https://scikit-learn.org/stable/auto_examples/preprocessing/plot_scaling_importance.html#sphx-glr-auto-examples-preprocessing-plot-scaling-importance-py
+
